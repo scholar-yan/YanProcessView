@@ -19,7 +19,7 @@ import java.util.List;
  * 作者: 024347
  * 时间: 2021/6/9
  * 版本:
- * 说明:
+ * 说明: 自定义View练习
  */
 public class YanProcessView extends View {
     /**
