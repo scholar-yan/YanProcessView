@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YanProcessView">
+        <!--底线高度-->
+        <attr name="yan_process_line_height" format="dimension" />
+        <!--底线颜色-->
+        <attr name="yan_process_line_color" format="color" />
+        <!--相邻两个进程中心点距离-->
+        <attr name="yan_process_space" format="dimension" />
+        <!--进程点半径-->
+        <attr name="yan_process_radius" format="dimension" />
+        <!--默认选中进程下标-->
+        <attr name="yan_process_default_select_index" format="integer" />
+        <!--选中的颜色-->
+        <attr name="yan_process_select_color" format="color" />
+        <!--文字与进程点间距-->
+        <attr name="yan_process_margin" format="dimension" />
+        <!--文字大小-->
+        <attr name="yan_process_text_size" format="dimension" />
+    </declare-styleable>
+</resources>
